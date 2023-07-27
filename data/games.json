@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Among Us",
+        "releaseYear": "2018-06-15",
+        "price": 50000,
+        "rating": 8.4,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQluxKwAmXBNYTncn8o_ACenJELAqIVs4cEQQ&usqp=CAU"
+      },
+      {
+        "id": 2,
+        "title": "Valheim",
+        "releaseYear": "2021-02-02",
+        "price": 200000,
+        "rating": 8.8,
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/7/77/Valheim_2021_logo.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Genshin Impact",
+        "releaseYear": "2020-09-28",
+        "price": 0,
+        "rating": 8.9,
+        "imageURL": "https://assetsio.reedpopcdn.com/genshin-impact-3-0-key-art.jpg?width=880&quality=80&format=jpg&auto=webp"
+      },
+      {
+        "id": 4,
+        "title": "Deathloop",
+        "releaseYear": "2021-09-14",
+        "price": 600000,
+        "rating": 8.7,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzx-kEC_Anl_qJPm1LIeBsPbAISPxJTJBtjQ&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "title": "It Takes Two",
+        "releaseYear": "2021-03-26",
+        "price": 400000,
+        "rating": 9.2,
+        "imageURL": "https://w0.peakpx.com/wallpaper/917/364/HD-wallpaper-video-game-it-takes-two-may-it-takes-two-cody-it-takes-two-dr-hakim-it-takes-two.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Resident Evil Village",
+        "releaseYear": "2021-05-07",
+        "price": 700000,
+        "rating": 8.7,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXieB5YZzZIIzwi2uPcuLkwY52L1UScMXX4g&usqp=CAU"
+      },
+      {
+        "id": 7,
+        "title": "Returnal",
+        "releaseYear": "2021-04-30",
+        "price": 800000,
+        "rating": 8.9,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ7wlgppwbwJYekBsaeJ_DTWhgrqPJ53tr9g&usqp=CAU"
+      },
+      {
+        "id": 8,
+        "title": "Ratchet & Clank: Rift Apart",
+        "releaseYear": "2021-06-11",
+        "price": 900000,
+        "rating": 9.1,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpwQG2UNm0DiOIc4EFppO3QHO_H1_8Wv_bWQ&usqp=CAU"
+      }
+]
